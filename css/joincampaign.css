@@ -157,6 +157,12 @@ td{
 	width: 100%;
 	flex-direction: column;
 }
+#MyCampaigns{
+	display: none;
+	width: 100%;
+	flex-direction: column;
+}
+
 #join1{
 	flex-direction: column ;
 	display : flex ;
