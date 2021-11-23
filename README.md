@@ -1,3 +1,3 @@
 # local-vocal
 
-Nomal  Front end using bootstrap, hml and css
+Nomal  Front end using bootstrap, html and css
